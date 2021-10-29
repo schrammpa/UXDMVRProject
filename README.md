@@ -1,5 +1,4 @@
 # UXDMVRProject
-City devestation VR game
 ## City Destruction VR Game
 ### Who is in the team?
 Caroline Kendrick and Paul Schramm

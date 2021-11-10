@@ -21,7 +21,8 @@ Unity 3D 2020.3.19f
 
 #### 3. Gameplay 
 *3.1 Summary* 
-Players are dropped into a level 
+The goal of the game is to, as a giant monster, cause as much destruction to a city as possible within a short time period. 
+This game provides a short interval of play, with a timed challenge encouraging players to try and beat their best within each session. The destruction element is fun and lighthearted, and the immersion of VR brings the player similar joy to smashing lego creations or kicking over sandcastles - without the crying sibling. 
 
 *3.2 Movement*
  Move by bringing the controller in front of the body, holding a button and then dragging the controller alongside the body. This type of movement can be seen in the game [Gorn](https://store.steampowered.com/app/578620/GORN/).

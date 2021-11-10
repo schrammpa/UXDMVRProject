@@ -103,6 +103,6 @@ Talha:
 
 Paul: 
 
-CG: documentation, logo/menu/interface design, interface animation, 'level design'. find open-source sound effects, bgm. 
+CG: documentation, logo/menu/interface design, interface animation, 'level design'.
 
 #### Change Log 
